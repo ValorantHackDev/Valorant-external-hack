@@ -19,6 +19,7 @@ VALORANT EXTERNAL 🌌
 VALORANT-EXTERNAL was made for educational purposes and personal use. By using our services you agree that you hold responsibility, liability and accountability of any consequences caused by your actions.
 </p>
 ## <a id="toc"></a>🌐 〢 Download Latest Version
+</p>
 [Download](https://github.com/ValorantHackDev/Valorant-external-hack/releases/download/1.1/valorant-external.v1.1.zip)
 
 ---
